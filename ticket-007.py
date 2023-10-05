@@ -1,1 +1,3 @@
-print("test1")
+
+print("Ticket changed")
+print("inne zmiany MD")
